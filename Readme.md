@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/RichEditDocumentServer_SimpleExample/MainPage.xaml) (VB: [MainPage.xaml](./VB/RichEditDocumentServer_SimpleExample/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/RichEditDocumentServer_SimpleExample/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/RichEditDocumentServer_SimpleExample/MainPage.xaml))
+<!-- default file list end -->
 # How to use RichEditDocumentServer to load, modify and save documents
 
 
